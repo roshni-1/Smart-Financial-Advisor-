@@ -1,5 +1,6 @@
 # Smart-Financial-Advisor-
-The goal is to create a Smart Financial Advisor that provides personalized financial advice based on user input. The application will use data science techniques for analysis, modern AI for predictions, and a web interface for easy access.
+To develop a comprehensive Smart Financial Advisor system capable of providing personalized financial advice, loan approval recommendations, and portfolio optimization based on individual financial profiles. The system will use data-driven models to analyze users' financial health, suggest investments, and recommend optimal financial decisions tailored to their specific circumstances.
+
 
 # Building Models 
 
