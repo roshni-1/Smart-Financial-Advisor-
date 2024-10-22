@@ -10,4 +10,5 @@ To develop a comprehensive Smart Financial Advisor system capable of providing p
  3. Portfolio Optimization model
 
 
-#Dataset Info
+# Project Phase 
+- **Currently Collecting financial Data of individuals from different ecnomics class** 
