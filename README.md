@@ -9,6 +9,11 @@ To develop a comprehensive Smart Financial Advisor system capable of providing p
  2. Investment recommendation model
  3. Portfolio Optimization model
 
+## Mindmap 
+![Mindmap](https://github.com/roshni-1/Smart-Financial-Advisor-/blob/main/SFA%20Mindmap%201.png)
+![Flowchart](https://github.com/roshni-1/Smart-Financial-Advisor-/blob/main/SFA%20Flowchart%201.png)
+
+
 
 # Project Phase 
 - **Currently Collecting financial Data of individuals from different ecnomics class** 
