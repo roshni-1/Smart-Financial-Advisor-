@@ -1,5 +1,5 @@
 # Smart-Financial-Advisor-
-To develop a comprehensive Smart Financial Advisor system capable of providing personalized financial advice, loan approval recommendations, and portfolio optimization based on individual financial profiles. The system will use data-driven models to analyze users' financial health, suggest investments, and recommend optimal financial decisions tailored to their specific circumstances.
+To develop a comprehensive Smart Financial Advisor system capable of providing personalized financial advice, loan approval recommendations, and portfolio optimization based on individual financial profiles. The system will use data-driven models to analyze users' financial health, suggest investments, and recommend optimal financial decisions tailored to their specific financial circumstance.
 
 
 # Building Models 
