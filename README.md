@@ -16,4 +16,5 @@ To develop a comprehensive Smart Financial Advisor system capable of providing p
 
 
 # Project Phase 
-- **Currently Collecting financial Data of individuals from different ecnomics class** 
+- **Currently Collecting financial Data of individuals from different economic class**
+ 
