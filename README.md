@@ -18,6 +18,6 @@ To develop a comprehensive Smart Financial Advisor system capable of providing p
 # Project Phase 
 - **Currently Collecting financial Data of individuals from different economic class**
  
-- **Stock Price Prediction** 
+- **Stock Price Prediction**:User Inputs stocks symbol and quantities, after which the data is fetched, analyzed and using ARIMA, LSTM, Prophet to predict prices. 
 - **Portfolio Optimization**
 - **News Scrapping for sentiment analysis in order to predict volatile stock market**
